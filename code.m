@@ -6,3 +6,5 @@ Xfft = abs(fft(x));
 
 figure;
 subplot 211;plot(x);
+
+subplot 212;plot(Xfft)
